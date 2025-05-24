@@ -83,7 +83,7 @@ Option 2: Manual input
 
 Just run:
 
-                  python3 inheritance.py
+                   python3 inheritance.py
 
 ## 🔗 HackerRank Challenge Link
 
