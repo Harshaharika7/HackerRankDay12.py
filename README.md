@@ -4,7 +4,7 @@ This repository contains the Python solution for Day 12 of the HackerRank 30 Day
 
 ## 🚀 Challenge Summary
 
-You are given two classes: `Person` and `Student`. 
+You are given two classes: `Person` and `Student`.
 
 Your task is to extend the `Person` class by creating a `Student` class that includes a method to calculate the average grade and return a letter grade.
 
